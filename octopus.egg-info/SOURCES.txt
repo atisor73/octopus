@@ -1,0 +1,11 @@
+README.md
+setup.py
+octopus/__init__.py
+octopus/figures.py
+octopus/ink.py
+octopus/quotes.py
+octopus.egg-info/PKG-INFO
+octopus.egg-info/SOURCES.txt
+octopus.egg-info/dependency_links.txt
+octopus.egg-info/requires.txt
+octopus.egg-info/top_level.txt

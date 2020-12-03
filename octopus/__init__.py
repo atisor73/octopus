@@ -1,3 +1,5 @@
+"""OCTOPUS"""
+
 from .ink import *
 from .quotes import *
 from .figures import *

@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: octopus
+Version: 0.0.1
+Summary: for octopus-lovers <3
+Home-page: https://github.com/atisor73/octopus
+Author: Rosita Fu
+Author-email: UNKNOWN
+License: MIT
+Description: Example for live-editing packages
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License

@@ -1,5 +1,5 @@
-from figures import *
-from quotes import *
+from .figures import *
+from .quotes import *
 
 import numpy as np
 
