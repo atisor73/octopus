@@ -9,8 +9,8 @@ def octopi():
     return float(str(np.pi)[:9])
 
 
-def octopus():
-    """prints a friend"""
+def octoshow():
+    """prints a friend""" 
     print(baby_octopus)
     pass 
 
